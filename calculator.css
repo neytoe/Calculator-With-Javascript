@@ -39,6 +39,18 @@ body{
     background-color: #bbbcbe;
 }
 
+.calc-button:last-child{
+    background-color: #FFC7C7;
+}
+
+.calc-button:last-child:hover{
+    background-color: #FFDBDB;
+}
+
+.calc-button:last-child:active{
+    background-color: #FFF0F0;
+}
+
 .double{
     width: 49.7%
 }
